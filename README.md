@@ -1,0 +1,2 @@
+# FAntiAFK
+AntiAFK
