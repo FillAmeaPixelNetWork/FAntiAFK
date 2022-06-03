@@ -1,0 +1,7 @@
+name: FAntiAFK
+author: Pigeon
+main: fap.pigeon.FAntiAFK
+load: POSTWORLD
+website: www.fapixel.com
+api: "1.0.0"
+version: "1.0.1"
